@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618762662163,21149,post,200,OK,assignment 2 1-1,text,true,,387,380,1,1,https://petstore.swagger.io/v2/user,21146,0,20828
+1618762683993,289,get,200,OK,assignment 2 1-1,text,true,,497,167,1,1,https://petstore.swagger.io/v2/user/Raj,288,0,0
